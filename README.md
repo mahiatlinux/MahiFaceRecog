@@ -1,5 +1,5 @@
 # MahiFaceRecog
-This code is a simple face recognition program made with Python. It uses the face_recognition library and OpenCV. It uses a webcam to capture frames, detects faces in each frame, and compares them with a set of known faces to recognize the person. 
+This code is a simple face recognition program made with Python. It uses the face_recognition library and OpenCV. It uses a webcam to capture frames, detects faces in each frame, and compares them with a set of known faces to recognize the person. And for all those people who for some reason can't install the needed libs, I have included a virtual enviroment.
  
 Here is a step-by-step explanation of the code: 
  
